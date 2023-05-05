@@ -85,5 +85,5 @@
 	- Commissioner Pravin Lal, Peacekeeping Forces (Alpha Centauri, 1999)
 
 - Another Quote:
-	* `She believed that God liked people in sailboats much better than He liked people in motorboats. She could not bear to look at a worm. When she saw a worm, she screamed. She was a fool, and so am I, and so is anyone who thinks he sees what God is Doing.`
+	* `"She believed that God liked people in sailboats much better than He liked people in motorboats. She could not bear to look at a worm. When she saw a worm, she screamed. She was a fool, and so am I, and so is anyone who thinks he sees what God is Doing.`"
 	- Cat's Cradle(The Books of Bokonon), Kurt Vonnegut
