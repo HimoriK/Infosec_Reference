@@ -1,14 +1,5 @@
 # InfoSec Reference
 
-
-<div align="center">
-<img src="images/Markdown-000000.svg">
-<img src="./images/v1.svg">
-</div>
-<div align = "center">
-	<img src="images/10k-xkcd.png" width="600" height="411"><p>From https://xkcd.com/1053/</p>
-</div>
-
 “The first question is by no means whether we are content with ourselves, but whether we are content with anything at all. If we affirm one single moment, we thus affirm not only ourselves but all existence. For nothing is self-sufficient, neither in us ourselves nor in things, and if our soul has trembled with happiness and sounded like a harp string just once, all eternity was needed to produce this one event – and in this single moment of affirmation all eternity was called good, redeemed, justified, and affirmed.” 
 - Some Nihilist
 
