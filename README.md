@@ -10,10 +10,6 @@
 	- Rich resource of infosec knowledge for anyone to browse through as a jumping off point for various niches OR as a reference/recall method for stuff. 
 	- To be clear, these aren't personal notes. I keep this repo maintained as a way of having pointers to information that I feel might help build someone's skillset or increase their understanding of attacks/methods/defenses.
 - For a HTML version of this reference, check out: [https://rmusser.net/docs](https://rmusser.net/docs)(I'm not a webdev. Can you tell?).
-- Want to contribute a link? 
-	* Anything relevant that isn't already in or covered would be/is appreciated.
-- **If this resource has helped you in any way(and didn't increase your frustration), please consider making a donation to [Doctors Without Borders](https://donate.doctorswithoutborders.org/onetime.cfm) or [Amnesty International](https://www.amnesty.org/en/donate/).**
-
 
 ----------------------------------------------------------------------
 ## Index - Table of Contents
